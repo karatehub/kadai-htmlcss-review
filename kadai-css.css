@@ -1,0 +1,35 @@
+
+
+body{
+width:1000px;
+}
+
+.bg-red {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #ffcccc;
+}
+
+#wrapper {
+    overflow: hidden;
+}
+
+#main {
+    float: left;
+    width: 700px;
+    height: 454px;
+    background-color: #ccffcc;
+}
+
+#menu {
+    float: right;
+    width: 300px;
+    height: 454px;
+    background-color: #ccccff;
+
+}
+
+.bg-red2 {
+    margin-top: 0;
+    background-color: #ffccff;
+}
